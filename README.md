@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm <a href="https://github.com/SatheeshKuraba" target="_blank">Kuraba Satheesh</a></h1>
 
-<!--
-**satheeshk50/satheeshk50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+A passionate **AI & Data Science Enthusiast** dedicated to solving real-world problems using cutting-edge technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./line.gif" width="100%" alt="decorative divider"/>
+
+<img src="./ai-thought.gif" height="300px" align="right" />
+
+<img src="https://komarev.com/ghpvc/?username=SatheeshKuraba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+- 🔭 Currently building **LLM-based tools using FastAPI & LangChain**
+- 🌱 Learning more about **Bayesian Knowledge Tracing**, **LangGraph**, and **Sora**
+- 💡 Always curious to explore **Transformers, Deep Learning**, and **Cognitive Models**
+- 📊 Love visualizing insights using **Power BI**
+- 📄 Know more about me [here](https://drive.google.com/file/d/16B7MNpRtZEpEldpHs6y3jDmoHwzcfUgx/view?usp=sharing)
+- ⚡ Fun fact: I enjoy debugging more than coding sometimes 😄
+
+---
+
+## 🛠️ Technologies and Tools I Use:
+
+<div>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/></code>
+</div>
+
+---
+
+## 🌐 Let's Connect:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/satheeshkuraba" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/SatheeshKuraba" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+  </a>
+  <a href="mailto:satheeshkuraba@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/SatheeshKuraba" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats:
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SatheeshKuraba&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatheeshKuraba&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SatheeshKuraba&theme=tokyonight" />
+</div>
+
