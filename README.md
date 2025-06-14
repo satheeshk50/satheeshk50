@@ -2,7 +2,12 @@
 
 ## 👨🏻‍💻 About Me
 
-A passionate **AI & Data Science Enthusiast** dedicated to solving real-world problems using cutting-edge technologies.
+<p>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="25" style="vertical-align:middle;"/> 
+  <strong>A passionate LLMs & Generative AI Enthusiast</strong> dedicated to building intelligent systems that solve real-world problems using cutting-edge technologies.
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-innovation-coding-and-development-flat-flat-juicy-fish.png" width="25" style="vertical-align:middle;"/>
+</p>
+
 
 <img src="./line.gif" width="100%" alt="decorative divider"/>
 
