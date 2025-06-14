@@ -11,10 +11,10 @@ A passionate **AI & Data Science Enthusiast** dedicated to solving real-world pr
 <img src="https://komarev.com/ghpvc/?username=SatheeshKuraba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 - 🔭 Currently building **LLM-based tools using FastAPI & LangChain**
-- 🌱 Learning more about **Bayesian Knowledge Tracing**, **LangGraph**, and **Sora**
-- 💡 Always curious to explore **Transformers, Deep Learning**, and **Cognitive Models**
+- 🌱 Learning more about **GenAI**
+- 💡 Always curious to explore **Transformers and Deep Learning**
 - 📊 Love visualizing insights using **Power BI**
-- 📄 Know more about me [here](https://drive.google.com/file/d/16B7MNpRtZEpEldpHs6y3jDmoHwzcfUgx/view?usp=sharing)
+- 📄 Know more about me [here](https://drive.google.com/file/d/1sqfhqbm4fBERy5-2v0NnCb3Yt7aw6fjT/view?usp=sharing)
 - ⚡ Fun fact: I enjoy debugging more than coding sometimes 😄
 
 ---
