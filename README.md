@@ -42,16 +42,16 @@ A passionate **AI & Data Science Enthusiast** dedicated to solving real-world pr
 ## 🌐 Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/satheeshkuraba" target="_blank">
+  <a href="[https://www.linkedin.com/in/satheeshkuraba](https://www.linkedin.com/in/satheesh-kuraba/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://github.com/SatheeshKuraba" target="_blank">
+  <a href="https://github.com/satheeshk50" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
   </a>
   <a href="mailto:satheeshkuraba@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/SatheeshKuraba" target="_blank">
+  <a href="https://leetcode.com/u/satheesh_k13/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
 </p>
