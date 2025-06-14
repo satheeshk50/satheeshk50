@@ -32,7 +32,7 @@ A passionate **AI & Data Science Enthusiast** dedicated to solving real-world pr
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/></code>
-  <code><img width="50" src="[https://img.icons8.com/color/480/power-bi.png](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png)" title="Power BI"/></code>
+  <code><img width="50" src="https://www.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" title="Power BI"/></code>
   <code><img width="50" src="https://avatars.githubusercontent.com/u/182288589?s=280" title="Model Context Protocol (MCP)"/></code>
 </div>
 
