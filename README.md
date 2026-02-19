@@ -19,7 +19,7 @@
 - 🌱 Learning more about **GenAI**
 - 💡 Always curious to explore **Transformers and Deep Learning**
 - 📊 Love visualizing insights using **Power BI**
-- 📄 Know more about me [here](https://drive.google.com/file/d/1sqfhqbm4fBERy5-2v0NnCb3Yt7aw6fjT/view?usp=sharing)
+- 📄 Know more about me [here](https://drive.google.com/file/d/1sqfhqbm4fBERy5-2v0NnCb3Yt7aw6fjT/view?usp=drive_link)
 - ⚡ Fun fact: I enjoy debugging more than coding sometimes 😄
 
 ---
